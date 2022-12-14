@@ -14,7 +14,7 @@
 - [Conclusions and Project Limitations](#conclusions-and-project-limitations)
 
 ## Project Overview
-Arguably, one the most important decisions NBA managers and coaches need to make each year, especially those who rank high in the NBA lottery, is related to which talent they select on draft night as this player could potentially turn-around a weak franchise's losing record. Due to the high stakes associated with this decision, in this project we explore the following:
+Arguably, one of the most important decisions NBA managers and coaches need to make each year, especially those who rank high in the NBA lottery, is related to which talent they select on draft night as this player could potentially turn-around a weak franchise's losing record. Due to the high stakes associated with this decision, in this project we explore the following:
 - Whether or not the draft position of an NBA player in any given year from 1990-2021 is correlated with future success; and 
 - Whether or not general managers and coaches of NBA teams have historically done a good job of increasing their teams' chances of succes by analyzing the top 10 draft pick data from 1990-2021.
 
